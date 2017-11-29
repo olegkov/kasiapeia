@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BasicPrediction/.idea/BasicPrediction.iml" filepath="$PROJECT_DIR$/../BasicPrediction/.idea/BasicPrediction.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DataCollector.iml" filepath="$PROJECT_DIR$/.idea/DataCollector.iml" />
     </modules>
   </component>
