@@ -131,7 +131,7 @@ publish/
 
 # NuGet Packages Directory
 ## TODO: If you have NuGet Package Restore enabled, uncomment the next line
-#packages/
+packages/
 
 # Windows Azure Build Output
 csx
@@ -202,7 +202,7 @@ sdist/
 develop-eggs/
 .installed.cfg
 
-# Installer logs
+# Installer logsf
 pip-log.txt
 
 # Unit test / coverage reports
